@@ -8,5 +8,5 @@ This project is created to automate college enquiry process.
 
 
 
-To push message to the specific use Push message.ipynb
+To push message to the specific id use Push message.ipynb
 
